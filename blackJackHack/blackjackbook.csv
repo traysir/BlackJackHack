@@ -1,0 +1,351 @@
+Player Hand,Dealer Up Card,Action
+5,2,Hit
+5,3,Hit
+5,4,Hit
+5,5,Hit
+5,6,Hit
+5,7,Hit
+5,8,Hit
+5,9,Hit
+5,10,Hit
+5,A,Hit
+6,2,Hit
+6,3,Hit
+6,4,Hit
+6,5,Hit
+6,6,Hit
+6,7,Hit
+6,8,Hit
+6,9,Hit
+6,10,Hit
+6,A,Hit
+7,2,Hit
+7,3,Hit
+7,4,Hit
+7,5,Hit
+7,6,Hit
+7,7,Hit
+7,8,Hit
+7,9,Hit
+7,10,Hit
+7,A,Hit
+8,2,Hit
+8,3,Hit
+8,4,Hit
+8,5,Hit
+8,6,Hit
+8,7,Hit
+8,8,Hit
+8,9,Hit
+8,10,Hit
+8,A,Hit
+9,2,"Double against 3-6, Hit otherwise"
+9,3,"Double against 3-6, Hit otherwise"
+9,4,"Double against 3-6, Hit otherwise"
+9,5,"Double against 3-6, Hit otherwise"
+9,6,"Double against 3-6, Hit otherwise"
+9,7,"Double against 3-6, Hit otherwise"
+9,8,"Double against 3-6, Hit otherwise"
+9,9,"Double against 3-6, Hit otherwise"
+9,10,"Double against 3-6, Hit otherwise"
+9,A,"Double against 3-6, Hit otherwise"
+10,2,"Double against 2-9, Hit otherwise"
+10,3,"Double against 2-9, Hit otherwise"
+10,4,"Double against 2-9, Hit otherwise"
+10,5,"Double against 2-9, Hit otherwise"
+10,6,"Double against 2-9, Hit otherwise"
+10,7,"Double against 2-9, Hit otherwise"
+10,8,"Double against 2-9, Hit otherwise"
+10,9,"Double against 2-9, Hit otherwise"
+10,10,"Double against 2-9, Hit otherwise"
+10,A,"Double against 2-9, Hit otherwise"
+11,2,Double against any card
+11,3,Double against any card
+11,4,Double against any card
+11,5,Double against any card
+11,6,Double against any card
+11,7,Double against any card
+11,8,Double against any card
+11,9,Double against any card
+11,10,Double against any card
+11,A,Double against any card
+12,2,"Stand against 4-6, Hit otherwise"
+12,3,"Stand against 4-6, Hit otherwise"
+12,4,"Stand against 4-6, Hit otherwise"
+12,5,"Stand against 4-6, Hit otherwise"
+12,6,"Stand against 4-6, Hit otherwise"
+12,7,"Stand against 4-6, Hit otherwise"
+12,8,"Stand against 4-6, Hit otherwise"
+12,9,"Stand against 4-6, Hit otherwise"
+12,10,"Stand against 4-6, Hit otherwise"
+12,A,"Stand against 4-6, Hit otherwise"
+13,2,"Stand against 2-6, Hit otherwise"
+13,3,"Stand against 2-6, Hit otherwise"
+13,4,"Stand against 2-6, Hit otherwise"
+13,5,"Stand against 2-6, Hit otherwise"
+13,6,"Stand against 2-6, Hit otherwise"
+13,7,"Stand against 2-6, Hit otherwise"
+13,8,"Stand against 2-6, Hit otherwise"
+13,9,"Stand against 2-6, Hit otherwise"
+13,10,"Stand against 2-6, Hit otherwise"
+13,A,"Stand against 2-6, Hit otherwise"
+14,2,"Stand against 2-6, Hit otherwise"
+14,3,"Stand against 2-6, Hit otherwise"
+14,4,"Stand against 2-6, Hit otherwise"
+14,5,"Stand against 2-6, Hit otherwise"
+14,6,"Stand against 2-6, Hit otherwise"
+14,7,"Stand against 2-6, Hit otherwise"
+14,8,"Stand against 2-6, Hit otherwise"
+14,9,"Stand against 2-6, Hit otherwise"
+14,10,"Stand against 2-6, Hit otherwise"
+14,A,"Stand against 2-6, Hit otherwise"
+15,2,"Stand against 2-6, Hit otherwise"
+15,3,"Stand against 2-6, Hit otherwise"
+15,4,"Stand against 2-6, Hit otherwise"
+15,5,"Stand against 2-6, Hit otherwise"
+15,6,"Stand against 2-6, Hit otherwise"
+15,7,"Stand against 2-6, Hit otherwise"
+15,8,"Stand against 2-6, Hit otherwise"
+15,9,"Stand against 2-6, Hit otherwise"
+15,10,"Stand against 2-6, Hit otherwise"
+15,A,"Stand against 2-6, Hit otherwise"
+16,2,"Stand against 2-6, Hit otherwise"
+16,3,"Stand against 2-6, Hit otherwise"
+16,4,"Stand against 2-6, Hit otherwise"
+16,5,"Stand against 2-6, Hit otherwise"
+16,6,"Stand against 2-6, Hit otherwise"
+16,7,"Stand against 2-6, Hit otherwise"
+16,8,"Stand against 2-6, Hit otherwise"
+16,9,"Stand against 2-6, Hit otherwise"
+16,10,"Stand against 2-6, Hit otherwise"
+16,A,"Stand against 2-6, Hit otherwise"
+17,2,Stand
+17,3,Stand
+17,4,Stand
+17,5,Stand
+17,6,Stand
+17,7,Stand
+17,8,Stand
+17,9,Stand
+17,10,Stand
+17,A,Stand
+18,2,Stand
+18,3,Stand
+18,4,Stand
+18,5,Stand
+18,6,Stand
+18,7,Stand
+18,8,Stand
+18,9,Stand
+18,10,Stand
+18,A,Stand
+19,2,Stand
+19,3,Stand
+19,4,Stand
+19,5,Stand
+19,6,Stand
+19,7,Stand
+19,8,Stand
+19,9,Stand
+19,10,Stand
+19,A,Stand
+20,2,Stand
+20,3,Stand
+20,4,Stand
+20,5,Stand
+20,6,Stand
+20,7,Stand
+20,8,Stand
+20,9,Stand
+20,10,Stand
+20,A,Stand
+21,2,Stand
+21,3,Stand
+21,4,Stand
+21,5,Stand
+21,6,Stand
+21,7,Stand
+21,8,Stand
+21,9,Stand
+21,10,Stand
+21,A,Stand
+"A,2",2,Hit or Double against 5-6
+"A,2",3,Hit or Double against 5-6
+"A,2",4,Hit or Double against 5-6
+"A,2",5,Hit or Double against 5-6
+"A,2",6,Hit or Double against 5-6
+"A,2",7,Hit or Double against 5-6
+"A,2",8,Hit or Double against 5-6
+"A,2",9,Hit or Double against 5-6
+"A,2",10,Hit or Double against 5-6
+"A,2",A,Hit or Double against 5-6
+"A,3",2,Hit or Double against 5-6
+"A,3",3,Hit or Double against 5-6
+"A,3",4,Hit or Double against 5-6
+"A,3",5,Hit or Double against 5-6
+"A,3",6,Hit or Double against 5-6
+"A,3",7,Hit or Double against 5-6
+"A,3",8,Hit or Double against 5-6
+"A,3",9,Hit or Double against 5-6
+"A,3",10,Hit or Double against 5-6
+"A,3",A,Hit or Double against 5-6
+"A,4",2,Hit or Double against 4-6
+"A,4",3,Hit or Double against 4-6
+"A,4",4,Hit or Double against 4-6
+"A,4",5,Hit or Double against 4-6
+"A,4",6,Hit or Double against 4-6
+"A,4",7,Hit or Double against 4-6
+"A,4",8,Hit or Double against 4-6
+"A,4",9,Hit or Double against 4-6
+"A,4",10,Hit or Double against 4-6
+"A,4",A,Hit or Double against 4-6
+"A,5",2,Hit or Double against 4-6
+"A,5",3,Hit or Double against 4-6
+"A,5",4,Hit or Double against 4-6
+"A,5",5,Hit or Double against 4-6
+"A,5",6,Hit or Double against 4-6
+"A,5",7,Hit or Double against 4-6
+"A,5",8,Hit or Double against 4-6
+"A,5",9,Hit or Double against 4-6
+"A,5",10,Hit or Double against 4-6
+"A,5",A,Hit or Double against 4-6
+"A,6",2,Hit or Double against 3-6
+"A,6",3,Hit or Double against 3-6
+"A,6",4,Hit or Double against 3-6
+"A,6",5,Hit or Double against 3-6
+"A,6",6,Hit or Double against 3-6
+"A,6",7,Hit or Double against 3-6
+"A,6",8,Hit or Double against 3-6
+"A,6",9,Hit or Double against 3-6
+"A,6",10,Hit or Double against 3-6
+"A,6",A,Hit or Double against 3-6
+"A,7",2,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",3,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",4,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",5,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",6,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",7,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",8,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",9,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",10,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,7",A,"Stand against 2, Double against 3-6, Hit otherwise"
+"A,8",2,Stand
+"A,8",3,Stand
+"A,8",4,Stand
+"A,8",5,Stand
+"A,8",6,Stand
+"A,8",7,Stand
+"A,8",8,Stand
+"A,8",9,Stand
+"A,8",10,Stand
+"A,8",A,Stand
+"A,9",2,Stand
+"A,9",3,Stand
+"A,9",4,Stand
+"A,9",5,Stand
+"A,9",6,Stand
+"A,9",7,Stand
+"A,9",8,Stand
+"A,9",9,Stand
+"A,9",10,Stand
+"A,9",A,Stand
+"A,A",2,Split
+"A,A",3,Split
+"A,A",4,Split
+"A,A",5,Split
+"A,A",6,Split
+"A,A",7,Split
+"A,A",8,Split
+"A,A",9,Split
+"A,A",10,Split
+"A,A",A,Split
+"10,10",2,Stand
+"10,10",3,Stand
+"10,10",4,Stand
+"10,10",5,Stand
+"10,10",6,Stand
+"10,10",7,Stand
+"10,10",8,Stand
+"10,10",9,Stand
+"10,10",10,Stand
+"10,10",A,Stand
+"9,9",2,"Split against 2-9 except 7, Stand otherwise"
+"9,9",3,"Split against 2-9 except 7, Stand otherwise"
+"9,9",4,"Split against 2-9 except 7, Stand otherwise"
+"9,9",5,"Split against 2-9 except 7, Stand otherwise"
+"9,9",6,"Split against 2-9 except 7, Stand otherwise"
+"9,9",7,"Split against 2-9 except 7, Stand otherwise"
+"9,9",8,"Split against 2-9 except 7, Stand otherwise"
+"9,9",9,"Split against 2-9 except 7, Stand otherwise"
+"9,9",10,"Split against 2-9 except 7, Stand otherwise"
+"9,9",A,"Split against 2-9 except 7, Stand otherwise"
+"8,8",2,Split
+"8,8",3,Split
+"8,8",4,Split
+"8,8",5,Split
+"8,8",6,Split
+"8,8",7,Split
+"8,8",8,Split
+"8,8",9,Split
+"8,8",10,Split
+"8,8",A,Split
+"7,7",2,"Split against 2-7, Hit otherwise"
+"7,7",3,"Split against 2-7, Hit otherwise"
+"7,7",4,"Split against 2-7, Hit otherwise"
+"7,7",5,"Split against 2-7, Hit otherwise"
+"7,7",6,"Split against 2-7, Hit otherwise"
+"7,7",7,"Split against 2-7, Hit otherwise"
+"7,7",8,"Split against 2-7, Hit otherwise"
+"7,7",9,"Split against 2-7, Hit otherwise"
+"7,7",10,"Split against 2-7, Hit otherwise"
+"7,7",A,"Split against 2-7, Hit otherwise"
+"6,6",2,"Split against 2-6, Hit otherwise"
+"6,6",3,"Split against 2-6, Hit otherwise"
+"6,6",4,"Split against 2-6, Hit otherwise"
+"6,6",5,"Split against 2-6, Hit otherwise"
+"6,6",6,"Split against 2-6, Hit otherwise"
+"6,6",7,"Split against 2-6, Hit otherwise"
+"6,6",8,"Split against 2-6, Hit otherwise"
+"6,6",9,"Split against 2-6, Hit otherwise"
+"6,6",10,"Split against 2-6, Hit otherwise"
+"6,6",A,"Split against 2-6, Hit otherwise"
+"5,5",2,"Double against 2-9, Hit otherwise"
+"5,5",3,"Double against 2-9, Hit otherwise"
+"5,5",4,"Double against 2-9, Hit otherwise"
+"5,5",5,"Double against 2-9, Hit otherwise"
+"5,5",6,"Double against 2-9, Hit otherwise"
+"5,5",7,"Double against 2-9, Hit otherwise"
+"5,5",8,"Double against 2-9, Hit otherwise"
+"5,5",9,"Double against 2-9, Hit otherwise"
+"5,5",10,"Double against 2-9, Hit otherwise"
+"5,5",A,"Double against 2-9, Hit otherwise"
+"4,4",2,"Split against 5-6, Hit otherwise"
+"4,4",3,"Split against 5-6, Hit otherwise"
+"4,4",4,"Split against 5-6, Hit otherwise"
+"4,4",5,"Split against 5-6, Hit otherwise"
+"4,4",6,"Split against 5-6, Hit otherwise"
+"4,4",7,"Split against 5-6, Hit otherwise"
+"4,4",8,"Split against 5-6, Hit otherwise"
+"4,4",9,"Split against 5-6, Hit otherwise"
+"4,4",10,"Split against 5-6, Hit otherwise"
+"4,4",A,"Split against 5-6, Hit otherwise"
+"3,3",2,"Split against 2-7, Hit otherwise"
+"3,3",3,"Split against 2-7, Hit otherwise"
+"3,3",4,"Split against 2-7, Hit otherwise"
+"3,3",5,"Split against 2-7, Hit otherwise"
+"3,3",6,"Split against 2-7, Hit otherwise"
+"3,3",7,"Split against 2-7, Hit otherwise"
+"3,3",8,"Split against 2-7, Hit otherwise"
+"3,3",9,"Split against 2-7, Hit otherwise"
+"3,3",10,"Split against 2-7, Hit otherwise"
+"3,3",A,"Split against 2-7, Hit otherwise"
+"2,2",2,"Split against 2-7, Hit otherwise"
+"2,2",3,"Split against 2-7, Hit otherwise"
+"2,2",4,"Split against 2-7, Hit otherwise"
+"2,2",5,"Split against 2-7, Hit otherwise"
+"2,2",6,"Split against 2-7, Hit otherwise"
+"2,2",7,"Split against 2-7, Hit otherwise"
+"2,2",8,"Split against 2-7, Hit otherwise"
+"2,2",9,"Split against 2-7, Hit otherwise"
+"2,2",10,"Split against 2-7, Hit otherwise"
+"2,2",A,"Split against 2-7, Hit otherwise"
